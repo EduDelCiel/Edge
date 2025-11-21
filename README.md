@@ -109,7 +109,7 @@ Exemplo de mensagem enviada pelo ESP32:
 ## 👥 Integrantes do Grupo
 
 - Eduardo Duran Del Ciel - RM:562017
-- Henrique Guedes Silvestre RM:562474
+- Henrique Guedes Silvestre - RM:562474
 
 ---
 
@@ -121,6 +121,10 @@ https://wokwi.com/projects/448196209528593409
 
 🔗 **Projeto no Video:**
 
+https://www.canva.com/design/DAG5XhKs2K0/6R4kKLMRJ5GAZw1m3FxbuQ/watch?utm_content=DAG5XhKs2K0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h62eafa49f6
+
 🔗 **Repositório no GitHub:**
+
+https://github.com/EduDelCiel/Edge?tab=readme-ov-file
 
 ---
