@@ -78,6 +78,7 @@ Exemplo de mensagem enviada pelo ESP32:
   "postura": 150,
   "status": "MEDIO"
 }
+```
 
 ---
 
@@ -103,7 +104,6 @@ Exemplo de mensagem enviada pelo ESP32:
 4. Node-RED recebe, processa, interpreta e atualiza o dashboard em tempo real
 5. Caso necessário, o ESP32 também pode receber comandos do Node-RED (controle de atuadores)
 
-
 ---
 
 ## 👥 Integrantes do Grupo
@@ -117,10 +117,10 @@ Exemplo de mensagem enviada pelo ESP32:
 
 🔗 **Projeto no Wokwi:**
 
+https://wokwi.com/projects/448196209528593409
 
+🔗 **Projeto no Video:**
 
 🔗 **Repositório no GitHub:**
 
-
 ---
-```
